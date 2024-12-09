@@ -1,22 +1,22 @@
 [
   {
     "name": "HeckerDev.net",
-    "url": "https://hecckerdev.net",
-    "icon": "https://icons.duckduckgo.com/ip3/hecckerdev.net.ico",
+    "url": "https://heckerdev.net",
+    "icon": "https://icons.duckduckgo.com/ip3/heckerdev.net.ico",
     "slug": "hecker-dev-net",
-    "status": "down",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.12%",
+    "uptimeDay": "1.12%",
+    "uptimeWeek": "1.12%",
+    "uptimeMonth": "1.12%",
+    "uptimeYear": "1.12%",
+    "time": 671,
+    "timeDay": 671,
+    "timeWeek": 671,
+    "timeMonth": 671,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-12-09": 0
+      "2024-12-09": 4
     }
   }
 ]
