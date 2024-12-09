@@ -4,17 +4,19 @@
     "url": "https://heckerdev.net",
     "icon": "https://icons.duckduckgo.com/ip3/heckerdev.net.ico",
     "slug": "hecker-dev-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 662,
-    "timeWeek": 662,
-    "timeMonth": 662,
-    "timeYear": 662,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1631,
+    "timeDay": 1631,
+    "timeWeek": 1631,
+    "timeMonth": 1631,
+    "timeYear": 1631,
+    "dailyMinutesDown": {
+      "2024-12-09": 0
+    }
   }
 ]
