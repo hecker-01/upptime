@@ -24,9 +24,9 @@ status-website:
     - title: Status
       href: /
     - title: HeckerDev.net
-      href: https://heckerdev.net/
+      href: https://status.heckerdev.net/history/hecker-dev-net
     - title: MangaHD.net
-      href: https://mangahd.net/
+      href: https://status.heckerdev.net/history/manga-hd-net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
