@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #020617; /* slate-950 */
+  --body-text-color: #ffffff; /* white */
+  --card-background-color: #000000; /* black cards or use slate-950 */
+  --nav-background-color: #020617; /* transparent in site, fallback slate-950 */
+  --nav-border-bottom-color: #6d28d9; /* violet-700 */
+  --nav-current-border-bottom-color: #a855f7; /* purple-500 */
+  --card-border-color: #6d28d9; /* violet-700 */
+  --down-border-left-color: #db2777; /* pink-600 */
+  --down-background-color: #581c87; /* purple-900 for negative blocks */
+  --degraded-border-left-color: #ca8a04; /* yellow-600 */
+  --up-border-left-color: #20bf6b; /* keep green accent */
+  --tag-color: #020617; /* matches body background */
+  --tag-up-background-color: #20bf6b;
+  --tag-down-background-color: #db2777; /* pink-600 */
+  --tag-degraded-background-color: #fef08a; /* yellow-200 */
+  --change-background-color: #fef08a; /* yellow highlight */
+  --error-button-border-color: #6d28d9; /* violet-700 */
+  --error-button-background-color: #7e22ce; /* purple-700 */
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #6d28d9; /* violet-700 */
+  --submit-button-background-color: #9333ea; /* purple-600 */
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
