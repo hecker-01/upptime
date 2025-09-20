@@ -33,19 +33,19 @@
     "url": "https://mangahd.net",
     "icon": "https://icons.duckduckgo.com/ip3/mangahd.net.ico",
     "slug": "manga-hd-net",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 453,
+    "timeDay": 453,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-20": 22
+      "2025-09-20": 150
     }
   }
 ]
