@@ -28,5 +28,6 @@ status-website:
     - title: MangaHD.net
       href: https://status.heckerdev.net/history/manga-hd-net
 
+api: true
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
