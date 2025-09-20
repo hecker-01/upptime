@@ -11,9 +11,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.85%",
     "time": 758,
-    "timeDay": 698,
-    "timeWeek": 695,
-    "timeMonth": 778,
+    "timeDay": 762,
+    "timeWeek": 719,
+    "timeMonth": 783,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2025-09-17": 35,
@@ -34,18 +34,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mangahd.net.ico",
     "slug": "manga-hd-net",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-20": 18
+      "2025-09-20": 22
     }
   }
 ]
