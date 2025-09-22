@@ -12,12 +12,12 @@ sites:
     slug: manga-hd-net
     icon: https://mangahd.net/icon.png
   - name: MangaHD API
-    url: $MANGAHD-API
+    url: $MANGAHD_API
     slug: manga-hd-api
     expectedStatusCodes:
       - 200
   - name: MangaHD Database
-    url: $MANGAHD-DB
+    url: $MANGAHD_DB
     slug: manga-hd-database
     expectedStatusCodes:
       - 200
