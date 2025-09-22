@@ -12,7 +12,7 @@ sites:
     slug: manga-hd-net
     icon: https://mangahd.net/icon.png
   - name: MangaHD Database
-    url: https://mangahd.net/api/database-health
+    url: $https://mangahd.net/api/database-health
     slug: manga-hd-database
 
 status-website:
