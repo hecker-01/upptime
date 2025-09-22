@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 818,
-    "timeWeek": 818,
-    "timeMonth": 818,
-    "timeYear": 818,
+    "time": 830,
+    "timeDay": 830,
+    "timeWeek": 830,
+    "timeMonth": 830,
+    "timeYear": 830,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://mangahd.net/icon.png",
     "slug": "manga-hd-net",
     "status": "up",
-    "uptime": "85.43%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "85.43%",
-    "uptimeYear": "85.43%",
-    "time": 600,
-    "timeDay": 666,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "uptime": "85.45%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "85.45%",
+    "uptimeMonth": "85.45%",
+    "uptimeYear": "85.45%",
+    "time": 621,
+    "timeDay": 691,
+    "timeWeek": 621,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-09-21": 232,
       "2025-09-20": 150
@@ -40,7 +40,7 @@
   },
   {
     "name": "MangaHD API",
-    "url": "$https://mangahd.net/api/health",
+    "url": "$MANGAHD-API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "manga-hd-api",
     "status": "down",
@@ -55,27 +55,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 4
     }
   },
   {
     "name": "MangaHD Database",
-    "url": "$https://mangahd.net/api/database-health",
+    "url": "$MANGAHD-DB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "manga-hd-database",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 402,
     "timeDay": 402,
     "timeWeek": 402,
     "timeMonth": 402,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-09-22": 9
+      "2025-09-22": 12
     }
   }
 ]
