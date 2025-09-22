@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 815,
-    "timeWeek": 815,
-    "timeMonth": 815,
-    "timeYear": 815,
+    "time": 818,
+    "timeDay": 818,
+    "timeWeek": 818,
+    "timeMonth": 818,
+    "timeYear": 818,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,39 @@
     "icon": "https://mangahd.net/icon.png",
     "slug": "manga-hd-net",
     "status": "up",
-    "uptime": "85.40%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "85.40%",
-    "uptimeMonth": "85.40%",
-    "uptimeYear": "85.40%",
-    "time": 579,
-    "timeDay": 639,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "uptime": "85.43%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "85.43%",
+    "uptimeMonth": "85.43%",
+    "uptimeYear": "85.43%",
+    "time": 600,
+    "timeDay": 666,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2025-09-21": 232,
       "2025-09-20": 150
+    }
+  },
+  {
+    "name": "MangaHD API",
+    "url": "$https://mangahd.net/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "manga-hd-api",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-09-22": 0
     }
   },
   {
@@ -44,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "manga-hd-database",
     "status": "down",
-    "uptime": "0.72%",
-    "uptimeDay": "0.72%",
-    "uptimeWeek": "0.72%",
-    "uptimeMonth": "0.72%",
-    "uptimeYear": "0.72%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 402,
     "timeDay": 402,
     "timeWeek": 402,
     "timeMonth": 402,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-09-22": 3
+      "2025-09-22": 8
     }
   }
 ]
