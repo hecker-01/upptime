@@ -5,9 +5,15 @@ repo: upptime # The name of this repository
 sites:
   - name: HeckerDev.net
     url: https://heckerdev.net
+    slug: hacker-dev-net
     icon: https://heckerdev.net/favicon.png
   - name: MangaHD.net
     url: https://mangahd.net
+    slug: manga-hd-net
+    icon: https://mangahd.net/icon.png
+  - name: MangaHD Database
+    url: https://mangahd.net/api/database-health
+    slug: manga-hd-database
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
