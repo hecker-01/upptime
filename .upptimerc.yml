@@ -12,11 +12,15 @@ sites:
     slug: manga-hd-net
     icon: https://mangahd.net/icon.png
   - name: MangaHD API
-    url: $https://mangahd.net/api/health
+    url: $MANGAHD-API
     slug: manga-hd-api
+    expectedStatusCodes:
+      - 200
   - name: MangaHD Database
-    url: $https://mangahd.net/api/database-health
+    url: $MANGAHD-DB
     slug: manga-hd-database
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
