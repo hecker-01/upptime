@@ -11,6 +11,9 @@ sites:
     url: https://mangahd.net
     slug: manga-hd-net
     icon: https://mangahd.net/icon.png
+  - name: MangaHD API
+    url: $https://mangahd.net/api/health
+    slug: manga-hd-api
   - name: MangaHD Database
     url: $https://mangahd.net/api/database-health
     slug: manga-hd-database
