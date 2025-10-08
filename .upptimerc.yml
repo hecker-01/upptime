@@ -7,20 +7,6 @@ sites:
     url: https://heckerdev.net
     slug: hacker-dev-net
     icon: https://heckerdev.net/favicon.png
-  - name: MangaHD.net
-    url: https://mangahd.net
-    slug: manga-hd-net
-    icon: https://mangahd.net/icon.png
-  - name: MangaHD API
-    url: $MANGAHD_API
-    slug: manga-hd-api
-    expectedStatusCodes:
-      - 200
-  - name: MangaHD Database
-    url: $MANGAHD_DB
-    slug: manga-hd-database
-    expectedStatusCodes:
-      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -38,8 +24,6 @@ status-website:
       href: /
     - title: HeckerDev.net
       href: https://status.heckerdev.net/history/hecker-dev-net
-    - title: MangaHD.net
-      href: https://status.heckerdev.net/history/manga-hd-net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
