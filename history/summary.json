@@ -4,7 +4,7 @@
     "url": "https://heckerdev.net",
     "icon": "https://heckerdev.net/favicon.png",
     "slug": "hacker-dev-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 705,
     "timeMonth": 716,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   }
 ]
