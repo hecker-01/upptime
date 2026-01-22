@@ -11,6 +11,10 @@ sites:
     url: https://heckr.dev
     slug: heckr-dev
     icon: https://heckr.dev/favicon.png
+  - name: satissuite.heckr.dev
+    url: https://satissuite.heckr.dev
+    slug: satissuite-heckr-dev
+    icon: https://satissuite.heckr.dev/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,6 +34,8 @@ status-website:
       href: https://status.heckerdev.net/history/hecker-dev-net
     - title: heckr.dev
       herf: https://status.heckerdev.net/history/heckr-dev
+    - title: satisSuite
+      href: https://status.heckerdev.net/history/satissuite-heckr-dev
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
