@@ -31,11 +31,11 @@ status-website:
     - title: Status
       href: /
     - title: heckr.dev
-      href: https://status.heckerdev.net/history/heckr-dev
+      href: https://status.heckr.dev/history/heckr-dev
     - title: heckerdev.net
-      href: https://status.heckerdev.net/history/hecker-dev-net
+      href: https://status.heckr.dev/history/hecker-dev-net
     - title: satisSuite
-      href: https://status.heckerdev.net/history/satis-suite
+      href: https://status.heckr.dev/history/satis-suite
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
