@@ -33,7 +33,7 @@ status-website:
     - title: HeckerDev.net
       href: https://status.heckerdev.net/history/hecker-dev-net
     - title: heckr.dev
-      herf: https://status.heckerdev.net/history/heckr-dev
+      href: https://status.heckerdev.net/history/heckr-dev
     - title: satisSuite
       href: https://status.heckerdev.net/history/satissuite-heckr-dev
 
