@@ -1,28 +1,21 @@
 [
   {
-    "name": "HeckerDev.net",
+    "name": "Heckerdev.net",
     "url": "https://heckerdev.net",
     "icon": "https://heckerdev.net/favicon.png",
-    "slug": "hecker-dev-net",
+    "slug": "heckerdev-net",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.90%",
-    "time": 756,
-    "timeDay": 763,
-    "timeWeek": 767,
-    "timeMonth": 733,
-    "timeYear": 748,
-    "dailyMinutesDown": {
-      "2025-09-17": 35,
-      "2025-09-03": 35,
-      "2025-07-29": 127,
-      "2025-04-16": 113,
-      "2025-03-17": 32,
-      "2025-01-31": 17
-    }
+    "uptimeYear": "100.00%",
+    "time": 913,
+    "timeDay": 913,
+    "timeWeek": 913,
+    "timeMonth": 913,
+    "timeYear": 913,
+    "dailyMinutesDown": {}
   },
   {
     "name": "heckr.dev",
@@ -35,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 171,
-    "timeDay": 186,
-    "timeWeek": 170,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "time": 168,
+    "timeDay": 161,
+    "timeWeek": 162,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2026-01-03": 27
     }
   },
   {
-    "name": "satissuite.heckr.dev",
+    "name": "satisSuite",
     "url": "https://satissuite.heckr.dev",
     "icon": "https://satissuite.heckr.dev/favicon.png",
-    "slug": "satissuite-heckr-dev",
+    "slug": "satis-suite",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 209,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   }
 ]
