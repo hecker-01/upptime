@@ -1,0 +1,44 @@
+:root {
+  /* Base */
+  --body-background-color: #1e1e2e; /* base */
+  --body-text-color: #cdd6f4;       /* text */
+
+  /* Cards & surfaces */
+  --card-background-color: #181825; /* mantle */
+  --card-border-color: #313244;     /* surface0 */
+
+  /* Navigation */
+  --nav-background-color: #181825;  /* mantle */
+  --nav-border-bottom-color: #313244; /* surface0 */
+  --nav-current-border-bottom-color: #89b4fa; /* blue */
+
+  /* Status borders */
+  --up-border-left-color: #a6e3a1;       /* green */
+  --degraded-border-left-color: #f9e2af; /* yellow */
+  --down-border-left-color: #f38ba8;     /* red */
+
+  /* Status backgrounds */
+  --down-background-color: #2b1d27; /* dark red tint */
+
+  /* Tags */
+  --tag-color: #1e1e2e; /* base */
+  --tag-up-background-color: #a6e3a1;       /* green */
+  --tag-down-background-color: #f38ba8;     /* red */
+  --tag-degraded-background-color: #f9e2af; /* yellow */
+
+  /* Change / warning */
+  --change-background-color: #f9e2af; /* yellow */
+
+  /* Buttons (error / submit use same accent style) */
+  --error-button-border-color: #89b4fa; /* blue */
+  --error-button-background-color: #89b4fa;
+  --error-button-color: #1e1e2e; /* base */
+
+  --submit-button-border-color: #89b4fa;
+  --submit-button-background-color: #89b4fa;
+  --submit-button-color: #1e1e2e;
+
+  /* Graph */
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
