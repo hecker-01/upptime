@@ -3,17 +3,17 @@ owner: hecker-01 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: HeckerDev.net
+  - name: Heckerdev.net
     url: https://heckerdev.net
-    slug: hecker-dev-net
+    slug: heckerdev-net
     icon: https://heckerdev.net/favicon.png
   - name: heckr.dev
     url: https://heckr.dev
     slug: heckr-dev
     icon: https://heckr.dev/favicon.png
-  - name: satissuite.heckr.dev
+  - name: satisSuite
     url: https://satissuite.heckr.dev
-    slug: satissuite-heckr-dev
+    slug: satis-suite
     icon: https://satissuite.heckr.dev/favicon.png
 
 status-website:
@@ -21,21 +21,21 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.heckerdev.net
   # baseUrl: /your-repo-name
-  favicon: https://heckerdev.net/favicon.png
-  logoUrl: https://heckerdev.net/favicon.png
-  themeUrl: https://status.heckerdev.net/darkhd.css
-  name: HeckerDev Status
-  introTitle: "HeckerDev Site Status"
-  introMessage: "Live uptime and availability tracking for websites owned by HeckerDev."
+  favicon: https://heckr.dev/favicon.png
+  logoUrl: https://heckr.dev/favicon.png
+  themeUrl: https://status.heckerdev.net/catppuccin-mocha.css
+  name: Heckerdev Status
+  introTitle: "Heckerdev Site Status"
+  introMessage: "Live uptime and availability tracking for websites owned by Heckerdev."
   navbar:
     - title: Status
       href: /
-    - title: HeckerDev.net
+    - title: Heckerdev.net
       href: https://status.heckerdev.net/history/hecker-dev-net
     - title: heckr.dev
       href: https://status.heckerdev.net/history/heckr-dev
     - title: satisSuite
-      href: https://status.heckerdev.net/history/satissuite-heckr-dev
+      href: https://status.heckerdev.net/history/satis-suite
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
