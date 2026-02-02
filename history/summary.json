@@ -24,19 +24,19 @@
     "url": "https://heckerdev.net",
     "icon": "https://heckerdev.net/favicon.png",
     "slug": "heckerdev-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 2018,
-    "timeWeek": 1026,
-    "timeMonth": 1016,
-    "timeYear": 1016,
+    "status": "up",
+    "uptime": "98.40%",
+    "uptimeDay": "88.57%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
+    "time": 988,
+    "timeDay": 1572,
+    "timeWeek": 995,
+    "timeMonth": 988,
+    "timeYear": 988,
     "dailyMinutesDown": {
-      "2026-02-02": 0
+      "2026-02-02": 165
     }
   },
   {
