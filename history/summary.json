@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 286,
-    "timeDay": 170,
-    "timeWeek": 809,
-    "timeMonth": 294,
-    "timeYear": 286,
+    "time": 285,
+    "timeDay": 243,
+    "timeWeek": 827,
+    "timeMonth": 296,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2026-01-03": 27
     }
@@ -25,16 +25,16 @@
     "icon": "https://heckerdev.net/favicon.png",
     "slug": "heckerdev-net",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
-    "time": 931,
-    "timeDay": 597,
-    "timeWeek": 998,
-    "timeMonth": 931,
-    "timeYear": 931,
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 925,
+    "timeDay": 825,
+    "timeWeek": 1008,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
       "2026-02-02": 165
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 114,
-    "timeWeek": 165,
+    "timeDay": 188,
+    "timeWeek": 167,
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {}
