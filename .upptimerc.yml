@@ -7,10 +7,10 @@ sites:
     url: https://heckr.dev
     slug: heckr-dev
     icon: https://heckr.dev/favicon.png
-  - name: Bittr
-    url: https://bittr.dev
-    slug: bittr-dev
-    icon: https://heckr.dev/assets/img/favicon.svg
+  # - name: Bittr
+  #   url: https://bittr.dev
+  #   slug: bittr-dev
+  #   icon: https://heckr.dev/assets/img/favicon.svg
   - name: Heckerdev.net
     url: https://heckerdev.net
     slug: heckerdev-net
@@ -36,8 +36,8 @@ status-website:
       href: /
     - title: heckr.dev
       href: https://status.heckr.dev/history/heckr-dev
-    - title: bittr.dev
-      href: https://status.heckr.dev/history/bittr-dev
+    # - title: bittr.dev
+    #   href: https://status.heckr.dev/history/bittr-dev
     - title: heckerdev.net
       href: https://status.heckr.dev/history/hecker-dev-net
     - title: satisSuite
